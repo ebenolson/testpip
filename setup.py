@@ -18,7 +18,7 @@ setup(
     license = "BSD",
     keywords = "example documentation tutorial",
     url = "http://packages.python.org/testpip",
-    packages=['testpip', 'tests'],
+    packages=['testpip',],
     long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
